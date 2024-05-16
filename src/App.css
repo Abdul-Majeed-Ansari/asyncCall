@@ -1,0 +1,22 @@
+body{
+  background-color: rgba(86, 83, 83, 0.927);
+}
+
+.container{
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  align-items: center;
+}
+
+p{
+  color: white;
+}
+
+.red{
+  color: rgb(245, 56, 56);
+}
+
+.yellow{
+  color: rgb(245, 245, 53);
+}
